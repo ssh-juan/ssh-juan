@@ -2,7 +2,7 @@
 It's great to have you here! 😀  
 
 ## About Me
-I'm a DevOps and Site Reliability Engineer (SRE) enthusiast passionate about automation, scalability, and delivering reliable systems.  
+I'm a Site Reliability Engineer (SRE) passionate about automation, scalability, and delivering reliable systems.  
 
 I'm improving my skills in Docker and Kubernetes has been instrumental in delivering modern solutions that prioritize automation and scalability, which are increasingly essential in today's technology landscape.
 
